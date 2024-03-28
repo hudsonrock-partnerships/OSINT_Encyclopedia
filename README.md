@@ -86,7 +86,7 @@ https://viewdns.info/
 
 ## Domains
 
-[https://www.hudsonrock.com/threat-intelligence-cybercrime-tools]
+https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 
 - Free tools that don't require registration and can indicate if a specific digital asset was compromised in a global Infostelaers attack. 
 
