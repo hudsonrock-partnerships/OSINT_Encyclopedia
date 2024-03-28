@@ -86,6 +86,10 @@ https://viewdns.info/
 
 ## Domains
 
+[https://www.hudsonrock.com/threat-intelligence-cybercrime-tools]
+
+- Free tools that don't require registration and can indicate if a specific digital asset was compromised in a global Infostelaers attack. 
+
 [https://domains-monitor.com/](https://domains-monitor.com/)
 
 - Allows downloading a raw list of all registered domains in all zones
